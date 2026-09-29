@@ -10,9 +10,15 @@ L'objectif principal est de cartographier l'évolution de la démographie médic
 
 ## 🔗 Liens Rapides & Ressources
 
-* 📊 **Présentation Interactives (Google Slides) :** [Accéder aux slides Google Drive](https://docs.google.com/presentation/d/1ijNpGf5N1GvktVrxPk7KI5pch4mDpuVS/edit?slide=id.p1#slide=id.p1)
-* 📄 **Support de Présentation (PDF) :** [Consulter / Télécharger le PDF (`Dr Téou.pptx.pdf`)](./Dr_Téou.pptx.pdf)
-* 🏥 **Source des Données :** [Portail Open Data Ameli.fr](https://www.ameli.fr)
+📊 Présentation Interactive (Google Slides) : Accéder aux slides Google Drive
+
+📄 Support de Présentation (PDF GitHub) : Voir le fichier PDF complet
+
+🐙 Dépôt GitHub du Projet : zinebaknin-png/Presentation-DrTeou-Projet-fin-bootcamp-LeWagon
+
+🏥 Source des Données : Portail Open Data Ameli.fr
+
+👥 Équipe du Projet (Bootcamp Le Wago
 
 ---
 
