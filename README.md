@@ -8,10 +8,10 @@ L'objectif principal est de cartographier l'évolution de la démographie médic
 
 ## 🔗 Liens Rapides & Ressources
 
-* 📊 **Présentation Interactive (Google Slides) :** [Accéder aux slides Google Drive](https://docs.google.com/presentation/d/1ijNpGf5N1GvktVrxPk7KI5pch4mDpuVS/edit)
-* 📄 **Support de Présentation (Lien relatif GitHub) :**  [Consulter / Télécharger le PDF](./Dr%20Téou.pptx.pdf)
-* 🐙 **Dépôt GitHub du Projet :** [Presentation-DrTeou-Projet-fin-bootcamp-LeWagon](https://github.com/zinebaknin-png/Presentation-DrTeou-Projet-fin-bootcamp-LeWagon)
-* 🏥 **Source des Données :** [Portail Open Data Ameli.fr](https://www.ameli.fr)
+1. 📊 **Présentation Interactive (PDF) :** [Dr Téou.pdf](https://github.com/zinebaknin-png/Presentation-DrTeou-Projet-fin-bootcamp-LeWagon/blob/main/Dr%20T%C3%A9ou.pdf)
+2. 🐍 **Code Google Colab / Notebook :** [DrTéou.ipynb](https://github.com/zinebaknin-png/Presentation-DrTeou-Projet-fin-bootcamp-LeWagon/blob/main/DrT%C3%A9ou.ipynb)
+3. 🐙 **Requêtes SQL :** [Requêtes_Téou.sql](https://github.com/zinebaknin-png/Presentation-DrTeou-Projet-fin-bootcamp-LeWagon/blob/main/Requ%C3%AAtes_T%C3%A9ou.sql)
+4. 🏥 **Source des Données :** [Data Ameli - Open Data Professionnels de Santé](https://data.ameli.fr/pages/data-professionnels-sante-liberaux/)
 
 ## 👥 Équipe du Projet (Bootcamp Le Wagon)
 
