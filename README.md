@@ -12,10 +12,6 @@ L'objectif principal est de cartographier l'évolution de la démographie médic
 2. 🐍 **Code Google Colab / Notebook :** [DrTéou.ipynb](https://github.com/zinebaknin-png/Presentation-DrTeou-Projet-fin-bootcamp-LeWagon/blob/main/DrT%C3%A9ou.ipynb)
 3. 🐙 **Requêtes SQL :** [Requêtes_Téou.sql](https://github.com/zinebaknin-png/Presentation-DrTeou-Projet-fin-bootcamp-LeWagon/blob/main/Requ%C3%AAtes_T%C3%A9ou.sql)
 4. 🏥 **Source des Données :** [Data Ameli - Open Data Professionnels de Santé](https://data.ameli.fr/pages/data-professionnels-sante-liberaux/)
-5. ![Densité Médicale](./Densite-Medecins-generalistes-2024.png)
-6. ![Top Flop Densité](./Top-Flop-Densite.png)
-7. ![Vieillissement](./Vieillissement.png)
-8. ![Remplacement](./Remplacement.png)
 
 ## 👥 Équipe du Projet (Bootcamp Le Wagon)
 
@@ -33,10 +29,14 @@ L'objectif principal est de cartographier l'évolution de la démographie médic
 
 ## 🔍 Principaux Constats & KPIs
 
-### 1. Baisse Globale de la Densité Médicale
+### 1. Baisse Globale de la Densité Médicale & Carte (2024)
 
 * **Tendances (2010 - 2024) :** La densité moyenne de médecins généralistes a chuté de **~84 à 74 pour 100 000 habitants**, tandis que la population française a augmenté (de 63M à >66,5M d'habitants).
 * **File active (Nombre de patients uniques par médecin) :** Varie fortement selon la densité. Les zones en sous-effectif imposent une charge de travail nettement supérieure aux praticiens.
+
+![Carte de Densité des Médecins Généralistes 2024](Densite-Medecins-generalistes-2024.png)
+
+---
 
 ### 2. Disparités Territoriales Majeures (Top vs. Flop)
 
@@ -50,12 +50,23 @@ L'objectif principal est de cartographier l'évolution de la démographie médic
   * **Cher :** ~46 MG / 100k hab.
   * **Seine-et-Marne :** ~46 MG / 100k hab.
 
+![Évolution Top Flop Densité](Top-Flop-Densite.png)
+
+---
+
 ### 3. Facteurs Explicatifs (Structure par Âge & Renouvellement)
 
 * **Vieillissement de la profession :** Dans les départements en tension (ex: Seine-Saint-Denis), la part des médecins proches de la retraite (60 ans et +) augmente fortement alors que la part des jeunes (< 35 ans) stagne ou baisse.
+
+![Analyse du Vieillissement](Vieillissement.png)
+
 * **Taux de renouvellement ($T = \frac{\text{Arrivées}}{\text{Départs}}$) :**
   * **Hautes-Alpes :** Tendance orientée à la hausse ($T > 1$), assurant la relève.
   * **Seine-Saint-Denis :** Tendance orientée à la baisse ($T < 1$), aggravant le déficit.
+
+![Taux de Remplacement](Remplacement.png)
+
+---
 
 ### 4. Spécialistes & Effet de Cumul
 
@@ -72,20 +83,14 @@ Grâce aux modèles prédictifs intégrés, l'étude anticipe l'évolution des d
 3. **Modernisation :** Déploiement de la télé-médecine et réorganisation du temps médical.
 
 ## 📂 Structure du Répertoire
+
+```text
 .
-├── Densite-Medecins-generalistes-2024.png # Carte de densité des médecins généralistes (2024)
-├── Dr Téou.pdf                           # Support de présentation officiel (PDF)
-├── DrTéou.ipynb                          # Notebook Python (Analyses & Visualisations)
-├── README.md                             # Documentation du projet[cite: 7]
-├── Remplacement.png                      # Graphique du taux de remplacement[cite: 7]
-├── Requêtes_Téou.sql                     # Requêtes SQL d'extraction des données Ameli[cite: 7]
-├── Top-Flop-Densite.png                  # Évolution de la densité (Top vs Flop)[cite: 7]
-└── Vieillissement.png                    # Analyse de la pyramide des âges des médecins[cite: 7]
-
-## 🛠️ Installation et Utilisation
-
-1. **Cloner le projet :**
-   ```bash
-   git clone https://github.com/zinebaknin-png/Presentation-DrTeou-Projet-fin-bootcamp-LeWagon.git
-   cd Presentation-DrTeou-Projet-fin-bootcamp-LeWagon
-   ```
+├── Densite-Medecins-generalistes-2024.png
+├── Dr Téou.pdf
+├── DrTéou.ipynb
+├── README.md
+├── Remplacement.png
+├── Requêtes_Téou.sql
+├── Top-Flop-Densite.png
+└── Vieillissement.png
