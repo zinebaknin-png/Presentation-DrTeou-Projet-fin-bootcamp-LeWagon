@@ -72,13 +72,15 @@ Grâce aux modèles prédictifs intégrés, l'étude anticipe l'évolution des d
 3. **Modernisation :** Déploiement de la télé-médecine et réorganisation du temps médical.
 
 ## 📂 Structure du Répertoire
-
-```
 .
-├── Dr Téou.pptx.pdf        # Support de présentation officiel (PDF)
-├── README.md               # Documentation du projet
-└── ...
-```
+├── Densite-Medecins-generalistes-2024.png # Carte de densité des médecins généralistes (2024)
+├── Dr Téou.pdf                           # Support de présentation officiel (PDF)
+├── DrTéou.ipynb                          # Notebook Python (Analyses & Visualisations)
+├── README.md                             # Documentation du projet[cite: 7]
+├── Remplacement.png                      # Graphique du taux de remplacement[cite: 7]
+├── Requêtes_Téou.sql                     # Requêtes SQL d'extraction des données Ameli[cite: 7]
+├── Top-Flop-Densite.png                  # Évolution de la densité (Top vs Flop)[cite: 7]
+└── Vieillissement.png                    # Analyse de la pyramide des âges des médecins[cite: 7]
 
 ## 🛠️ Installation et Utilisation
 
