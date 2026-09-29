@@ -9,8 +9,7 @@ L'objectif principal est de cartographier l'évolution de la démographie médic
 ## 🔗 Liens Rapides & Ressources
 
 * 📊 **Présentation Interactive (Google Slides) :** [Accéder aux slides Google Drive](https://docs.google.com/presentation/d/1ijNpGf5N1GvktVrxPk7KI5pch4mDpuVS/edit)
-* 📄 **Support de Présentation (Lien relatif GitHub) :** [Consulter / Télécharger le PDF](./Dr%20Téou.pptx.pdf)
-* 🌐 **Support de Présentation (Lien direct GitHub) :** [Visualiser sur GitHub](https://github.com/zinebaknin-png/Presentation-DrTeou-Projet-fin-bootcamp-LeWagon/blob/main/Dr%20T%C3%A9ou.pptx.pdf)
+* 📄 **Support de Présentation (Lien relatif GitHub) :**  [Consulter / Télécharger le PDF](./Dr%20Téou.pptx.pdf)
 * 🐙 **Dépôt GitHub du Projet :** [Presentation-DrTeou-Projet-fin-bootcamp-LeWagon](https://github.com/zinebaknin-png/Presentation-DrTeou-Projet-fin-bootcamp-LeWagon)
 * 🏥 **Source des Données :** [Portail Open Data Ameli.fr](https://www.ameli.fr)
 
