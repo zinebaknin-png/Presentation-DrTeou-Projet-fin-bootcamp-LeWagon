@@ -12,7 +12,7 @@ L'objectif principal est de cartographier l'évolution de la démographie médic
 2. 🐍 **Code Google Colab / Notebook :** [DrTéou.ipynb](https://github.com/zinebaknin-png/Presentation-DrTeou-Projet-fin-bootcamp-LeWagon/blob/main/DrT%C3%A9ou.ipynb)
 3. 🐙 **Requêtes SQL :** [Requêtes_Téou.sql](https://github.com/zinebaknin-png/Presentation-DrTeou-Projet-fin-bootcamp-LeWagon/blob/main/Requ%C3%AAtes_T%C3%A9ou.sql)
 4. 🏥 **Source des Données :** [Data Ameli - Open Data Professionnels de Santé](https://data.ameli.fr/pages/data-professionnels-sante-liberaux/)
-5. ![Densité Médicale](./Densite-Medecins-generalistes-2024.jpg)
+5. ![Densité Médicale](./Densite-Medecins-generalistes-2024.png)
 6. ![Top Flop Densité](./Top-Flop-Densite.png)
 7. ![Vieillissement](./Vieillissement.png)
 8. ![Remplacement](./Remplacement.png)
